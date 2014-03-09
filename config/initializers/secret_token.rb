@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-OrgApi::Application.config.secret_key_base = 'bc5aa220b5449b44a3c6dc3d4138d30c529dcb6ecde37e21c19f7309f62288f5a1d4e3f2634ff4f1861ae7ebc1d1cccbf5f82b8e9e7f8e27b7007dfb577d70b1'
+OrgApi::Application.config.secret_key_base = 'd979f2e85aceabbe4640b105f6978b386d9c843e434b0bac215ed5d09e12b61cfe75681d41d14f2ca4df077ce7004447e28f430be38c7d5f6f8cb2ca3a5270dd'
